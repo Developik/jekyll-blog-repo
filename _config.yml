@@ -22,7 +22,7 @@ title: Developik Jekyll
 email: provozia@myumanitoba.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Developik Jekyll
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/resume" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  developik
 
