@@ -65,7 +65,3 @@ May 2019 - Present
   - CISCO: CCNA Routing and Switching
   - Udemy Courses (AWS Developer, Python, React Native, Web-Development)
 
-<!---
-Developik/Developik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
