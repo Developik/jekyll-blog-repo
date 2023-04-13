@@ -1,2 +1,2 @@
 # jekyll-blog-repo
-Nothing here:)
+Jekyll blog as part of the university curriculum
